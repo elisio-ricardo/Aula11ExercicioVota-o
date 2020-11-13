@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
 public class Principal {
 
 	public static void main(String[] args) throws IOException  {
-		//testando
+		//testando outra vez
 
 		Votacao[] cadastro = new Votacao[100];
 		Votacao2020 v = new Votacao2020();
